@@ -10,8 +10,8 @@ import Provider from "./provider";
  })
 
 export const metadata = {
-  title: "Cult of Cats",
-  description: "You’ve entered the sacred sanctuary of the Cult of Cats — where whiskers rule, naps are sacred, and every meow is a blessing. Bow to the feline overlords, bask in their fluffy wisdom, and let the purring guide your soul.",
+  title: "doinks",
+  description: "",
 };
 
 export default function RootLayout({ children }) {
